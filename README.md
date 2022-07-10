@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ## Languages
 
-I am a passionate R programmer and also like to code with Python (sometimes using both languages at the same time via the fabulous R package [`reticulate`](https://rstudio.github.io/reticulate/)). My development environment is completely containerized with different containers for the requirements of different tasks (e.g. data science, computer vision, bioinformatics, GPU-computation, etc.; publicly available on [my GitHub](https://github.com/kapsner/docker_images)).
+I am a passionate R programmer and also like to code with Python (sometimes using both languages at the same time via the fabulous R package [`reticulate`](https://rstudio.github.io/reticulate/)). My development environment is completely containerized with different base containers for different tasks (e.g. data science, computer vision, bioinformatics, GPU-computation, etc.; publicly available on [my GitHub](https://github.com/kapsner/docker_images)).
 
 <!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kapsner&layout=compact&count_private=true&hide_title=true&theme=tokyonight&hide=html,typescript,css,javascript)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Top Languages](https://github-readme-stats-kapsner.vercel.app/api/top-langs/?username=kapsner&layout=compact&count_private=true&hide_title=true&theme=tokyonight&langs_count=6&hide=html,lua,cuda)](https://github.com/kapsner/github-readme-stats)
