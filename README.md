@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" height="55"/></a>
 <a href="https://git-scm.com/"><img src="https://git-scm.com/images/logo@2x.png" alt="git" height="55"/></a>
 <a href="https://about.gitlab.com/"><img src="https://gitlab.com/gitlab-org/gitlab/-/raw/master/app/assets/images/gitlab_logo.png" alt="gitlab" height="55"/></a>
+<a href="https://quarto.org/"><img src="https://quarto.org/quarto.png" alt="quarto" height="55"/></a>
 <a href="https://github.com/rstudio/shiny"><img src="https://raw.githubusercontent.com/rstudio/shiny/main/man/figures/logo.png" alt="shiny" height="55"/></a>
 <a href="https://github.com/rstudio/rmarkdown"><img src="https://raw.githubusercontent.com/rstudio/rmarkdown/main/man/figures/logo.png" alt="rmarkdown" height="55"/></a>
 <a href="https://github.com/tidyverse/ggplot2"><img src="https://raw.githubusercontent.com/tidyverse/ggplot2/main/man/figures/logo.png" alt="ggplot" height="55"/></a>
