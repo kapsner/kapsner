@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-- :cupcake: Interests: Medical Informatics | Statistics | ML | R | Python
+- :cupcake: Interests: Medical Informatics | Statistics | Machine Learning | R | Python
 - :office_worker: I'm a Medical Doctor (M.D.) and Medical Data Scientist
 - :building_construction: R package maintainer: [sjtable2df](https://github.com/kapsner/sjtable2df), [rBiasCorrection](https://github.com/kapsner/rBiasCorrection), [BiasCorrector](https://github.com/kapsner/BiasCorrector), [DQAstats](https://github.com/miracum/dqa-dqastats), [DQAgui](https://github.com/miracum/dqa-dqagui) 
 - :mortar_board: Publications: [0000-0003-1866-860X](https://orcid.org/0000-0003-1866-860X)
