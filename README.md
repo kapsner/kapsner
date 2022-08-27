@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 - :cupcake: Interests: Medical Informatics | Statistics | Machine Learning | R | Python
 - :office_worker: I'm a Medical Doctor (M.D.) and Medical Data Scientist
-- :building_construction: R package maintainer: [sjtable2df](https://github.com/kapsner/sjtable2df), [rBiasCorrection](https://github.com/kapsner/rBiasCorrection), [BiasCorrector](https://github.com/kapsner/BiasCorrector), [DQAstats](https://github.com/miracum/dqa-dqastats), [DQAgui](https://github.com/miracum/dqa-dqagui) 
-- :mortar_board: Publications: [0000-0003-1866-860X](https://orcid.org/0000-0003-1866-860X)
+- :building_construction: Author and maintainer of several R packages, including [sjtable2df](https://github.com/kapsner/sjtable2df), [rBiasCorrection](https://github.com/kapsner/rBiasCorrection), [BiasCorrector](https://github.com/kapsner/BiasCorrector), [DQAstats](https://github.com/miracum/dqa-dqastats), [DQAgui](https://github.com/miracum/dqa-dqagui), and [more](./r_packages_overview.md)
+- :mortar_board: Publications: [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%28Kapsner+LA%5BAuthor%5D%29+OR+%28Kapsner+L%5BAuthor%5D%29), [ORCID](https://orcid.org/0000-0003-1866-860X)
 - :microscope: [Kaggle Notebook Expert](https://www.kaggle.com/nonserial)
 
 ## Technologies/ Tools
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ## Languages
 
-I am a passionate R programmer and also like to code with Python (sometimes using both languages at the same time via the fabulous R package [`reticulate`](https://rstudio.github.io/reticulate/)). My development environment is completely containerized with different base containers for different tasks (e.g. data science, computer vision, bioinformatics, GPU-computation, etc.; publicly available on [my GitHub](https://github.com/kapsner/docker_images)).
+I am a passionate R programmer and also like coding with Python (sometimes using both languages at the same time via the fabulous R package [`reticulate`](https://rstudio.github.io/reticulate/)). My development environment is completely containerized with different base containers for different tasks (e.g. data science, computer vision, bioinformatics, GPU-computation, etc.; publicly available on [my GitHub](https://github.com/kapsner/docker_images)).
 
 <!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kapsner&layout=compact&count_private=true&hide_title=true&theme=tokyonight&hide=html,typescript,css,javascript)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Top Languages](https://github-readme-stats-kapsner.vercel.app/api/top-langs/?username=kapsner&layout=compact&count_private=true&hide_title=true&theme=tokyonight&langs_count=6&hide=html,lua,cuda)](https://github.com/kapsner/github-readme-stats)
