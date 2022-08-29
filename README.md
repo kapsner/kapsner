@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - :cupcake: Interests: Medical Informatics | Statistics | Machine Learning | R | Python
 - :office_worker: I'm a Medical Doctor (M.D.) and Medical Data Scientist
-- :building_construction: Author and maintainer of several R packages, including [sjtable2df](https://github.com/kapsner/sjtable2df), [BiasCorrector](https://github.com/kapsner/BiasCorrector), [DQAgui](https://github.com/miracum/dqa-dqagui), and [more](./r_packages_overview.md)
+- :building_construction: Author and maintainer of several R packages, including [autonewsmd](https://github.com/kapsner/autonewsmd), [sjtable2df](https://github.com/kapsner/sjtable2df), [BiasCorrector](https://github.com/kapsner/BiasCorrector), [DQAgui](https://github.com/miracum/dqa-dqagui), and [more](./r_packages_overview.md)
 - :mortar_board: Publications: [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%28Kapsner+LA%5BAuthor%5D%29+OR+%28Kapsner+L%5BAuthor%5D%29), [ORCID](https://orcid.org/0000-0003-1866-860X)
 - :microscope: [Kaggle Notebook Expert](https://www.kaggle.com/nonserial)
 
