@@ -23,6 +23,9 @@
 
 | Name | R CMD check results | Test Coverage | Publication | 
 | ---- | ------------------- | ------------- | ----------- | 
+| [mlexperiments](https://github.com/kapsner/mlexperiments) | [![R CMD Check via {tic}](https://github.com/kapsner/mlexperiments/workflows/R%20CMD%20Check%20via%20{tic}/badge.svg?branch=main)](https://github.com/kapsner/mlexperiments) | [![codecov](https://codecov.io/gh/kapsner/mlexperiments/branch/main/graph/badge.svg)](https://app.codecov.io/gh/kapsner/mlexperiments) | |
+| [mllrnrs](https://github.com/kapsner/mllrnrs) | [![R CMD Check via {tic}](https://github.com/kapsner/mllrnrs/workflows/R%20CMD%20Check%20via%20{tic}/badge.svg?branch=main)](https://github.com/kapsner/mllrnrs) | [![codecov](https://codecov.io/gh/kapsner/mllrnrs/branch/main/graph/badge.svg)](https://app.codecov.io/gh/kapsner/mllrnrs) | |
+| [kdry](https://github.com/kapsner/kdry) | [![R CMD Check via {tic}](https://github.com/kapsner/kdry/workflows/R%20CMD%20Check%20via%20{tic}/badge.svg?branch=main)](https://github.com/kapsner/kdry) | [![codecov](https://codecov.io/gh/kapsner/kdry/branch/main/graph/badge.svg)](https://app.codecov.io/gh/kapsner/kdry) | |
 | [miRacumDQA](https://github.com/miracum/dqa-miracumdqa) | [![R CMD Check via {tic}](https://github.com/miracum/dqa-miracumdqa/workflows/R%20CMD%20Check%20via%20{tic}/badge.svg?branch=master)](https://github.com/miracum/dqa-miracumdqa) | [![codecov](https://codecov.io/gh/miracum/dqa-miracumdqa/branch/master/graph/badge.svg)](https://app.codecov.io/gh/miracum/dqa-miracumdqa) | |
 | [mlr3learners.lightgbm](https://github.com/mlr3learners/mlr3learners.lightgbm) | [![R CMD Check via {tic}](https://github.com/mlr3learners/mlr3learners.lightgbm/workflows/R%20CMD%20Check%20via%20{tic}/badge.svg?branch=master)](https://github.com/miracum/dqa-miracumdqa) | | | 
 | [lightgbm.py](https://github.com/kapsner/lightgbm.py) | | | | 
