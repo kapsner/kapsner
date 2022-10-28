@@ -52,4 +52,4 @@
 
 ## R packages, I have contributed to
 
-[mlr3extralearners](https://github.com/mlr-org/mlr3extralearners), [cutpointr](https://github.com/Thie1e/cutpointr), [splitTools](https://github.com/mayer79/splitTools)
+[mlr3extralearners](https://github.com/mlr-org/mlr3extralearners), [cutpointr](https://github.com/Thie1e/cutpointr), [splitTools](https://github.com/mayer79/splitTools), [ParBayesianOptimization](https://github.com/AnotherSamWilson/ParBayesianOptimization)
