@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 
 ## Github stats
 
-<!--[![Lorenz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapsner&count_private=true&include_all_commits=true&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Lorenz's GitHub stats](https://github-readme-stats-kapsner.vercel.app/api?username=kapsner&count_private=true&include_all_commits=true&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/kapsner/github-readme-stats)
+<!--[![Lorenz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapsner&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Lorenz's GitHub stats](https://github-readme-stats-kapsner.vercel.app/api?username=kapsner&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/kapsner/github-readme-stats)
 
 ## Languages
 
