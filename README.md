@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - :cupcake: Interests: Medical Informatics | Statistics | Machine Learning | R | Python
 - :office_worker: I'm a Medical Doctor (M.D.) and Medical Data Scientist
-- :building_construction: Author and maintainer of several R packages, including [autonewsmd](https://github.com/kapsner/autonewsmd), [sjtable2df](https://github.com/kapsner/sjtable2df), [BiasCorrector](https://github.com/kapsner/BiasCorrector), [DQAgui](https://github.com/miracum/dqa-dqagui), and [more](./r_packages_overview.md)
+- :building_construction: Author and maintainer of several R packages, including [autonewsmd](https://CRAN.R-project.org/package=autonewsmd), [sjtable2df](https://CRAN.R-project.org/package=sjtable2df), [BiasCorrector](https://CRAN.R-project.org/package=BiasCorrector), [DQAgui](https://CRAN.R-project.org/package=DQAgui), and [more](./r_packages_overview.md)
 - :mortar_board: Publications: [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%28Kapsner+LA%5BAuthor%5D%29+OR+%28Kapsner+L%5BAuthor%5D%29), [ORCID](https://orcid.org/0000-0003-1866-860X)
 - :microscope: [Kaggle Notebook Expert](https://www.kaggle.com/nonserial)
 
@@ -29,8 +29,9 @@ Here are some ideas to get you started:
 <a href="https://www.python.org/"><img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="python" height="55"/></a>
 <a href="https://www.r-project.org/"><img src="https://www.r-project.org/Rlogo.png" alt="R" width="57" height="55"/></a>
 <a href="https://www.rstudio.com/"><img src="https://www.rstudio.com/assets/img/logo.svg" alt="rstudio" height="55"/></a>
-<a href="https://www.docker.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1920px-Docker_%28container_engine%29_logo.svg.png" alt="docker" height="55"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" height="55"/></a>
+<a href="https://jupyter.org/"><img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="jupyter" height="55"/></a>
+<a href="https://www.docker.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1920px-Docker_%28container_engine%29_logo.svg.png" alt="docker" height="55"/></a>
 <a href="https://tiswww.case.edu/php/chet/bash/bashtop.html"><img src="https://tiswww.case.edu/php/chet/img/bash-logo-web.png" alt="bash" height="55"/></a>
 <a href="https://github.com/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" height="55"/></a>
 <a href="https://git-scm.com/"><img src="https://git-scm.com/images/logo@2x.png" alt="git" height="55"/></a>
@@ -51,8 +52,8 @@ Here are some ideas to get you started:
 
 ## Github stats
 
-<!--[![Lorenz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapsner&count_private=true&include_all_commits=true&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Lorenz's GitHub stats](https://github-readme-stats-kapsner.vercel.app/api?username=kapsner&count_private=true&include_all_commits=true&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/kapsner/github-readme-stats)
+<!--[![Lorenz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapsner&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Lorenz's GitHub stats](https://github-readme-stats-kapsner.vercel.app/api?username=kapsner&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/kapsner/github-readme-stats)
 
 ## Languages
 

@@ -4,6 +4,8 @@
 
 ### CRAN-hosted
 
+<center>
+
 | Name | CRAN version | CRAN errors | Downloads | R CMD check results | Test Coverage | Publication | 
 | ---- | ------------ | ----------- | --------- | ------------------- | ------------- | ----------- | 
 | [autonewsmd](https://github.com/kapsner/autonewsmd) | [![CRAN Status Badge](https://www.r-pkg.org/badges/version-ago/autonewsmd)](https://cran.r-project.org/package=autonewsmd) | [![Cran Checks](https://badges.cranchecks.info/worst/autonewsmd.svg)](https://cran.r-project.org/web/checks/check_results_autonewsmd.html) | [![](http://cranlogs.r-pkg.org/badges/grand-total/autonewsmd?color=blue)](https://cran.r-project.org/package=autonewsmd) | [![R CMD Check via {tic}](https://github.com/kapsner/autonewsmd/workflows/R%20CMD%20Check%20via%20{tic}/badge.svg?branch=main)](https://github.com/kapsner/autonewsmd) | [![codecov](https://codecov.io/gh/kapsner/autonewsmd/branch/main/graph/badge.svg)](https://app.codecov.io/gh/kapsner/autonewsmd) | |
@@ -13,10 +15,18 @@
 | [DQAstats](https://github.com/miracum/dqa-dqastats) | [![CRAN Status Badge](https://www.r-pkg.org/badges/version-ago/DQAstats)](https://cran.r-project.org/package=DQAstats) | [![Cran Checks](https://badges.cranchecks.info/worst/DQAstats.svg)](https://cran.r-project.org/web/checks/check_results_DQAstats.html) | [![](http://cranlogs.r-pkg.org/badges/grand-total/DQAstats?color=blue)](https://cran.r-project.org/package=DQAstats) | [![R CMD Check via {tic}](https://github.com/miracum/dqa-dqastats/workflows/R%20CMD%20Check%20via%20{tic}/badge.svg?branch=master)](https://github.com/miracum/dqa-dqastats) | [![codecov](https://codecov.io/gh/miracum/dqa-dqastats/branch/master/graph/badge.svg)](https://app.codecov.io/gh/miracum/dqa-dqastats) | [![](https://img.shields.io/badge/doi-10.1055/s--0041--1733847-yellow.svg)](https://doi.org/10.1055/s-0041-1733847) |
 | [DQAgui](https://github.com/miracum/dqa-dqagui) | [![CRAN Status Badge](https://www.r-pkg.org/badges/version-ago/DQAgui)](https://cran.r-project.org/package=DQAgui) | [![Cran Checks](https://badges.cranchecks.info/worst/DQAgui.svg)](https://cran.r-project.org/web/checks/check_results_DQAgui.html) | [![](http://cranlogs.r-pkg.org/badges/grand-total/DQAgui?color=blue)](https://cran.r-project.org/package=DQAgui) | [![R CMD Check via {tic}](https://github.com/miracum/dqa-dqagui/workflows/R%20CMD%20Check%20via%20{tic}/badge.svg?branch=master)](https://github.com/miracum/dqa-dqagui) | [![codecov](https://codecov.io/gh/miracum/dqa-dqagui/branch/master/graph/badge.svg)](https://app.codecov.io/gh/miracum/dqa-dqagui) | [![](https://img.shields.io/badge/doi-10.1186/s12911--022--01961--z-yellow.svg)](https://doi.org/10.1186/s12911-022-01961-z) |
 
+</center>
+
 ### Not on CRAN
+
+<center>
 
 | Name | R CMD check results | Test Coverage | Publication | 
 | ---- | ------------------- | ------------- | ----------- | 
+| [mlexperiments](https://github.com/kapsner/mlexperiments) | [![R CMD Check via {tic}](https://github.com/kapsner/mlexperiments/workflows/R%20CMD%20Check%20via%20{tic}/badge.svg?branch=main)](https://github.com/kapsner/mlexperiments) | [![codecov](https://codecov.io/gh/kapsner/mlexperiments/branch/main/graph/badge.svg)](https://app.codecov.io/gh/kapsner/mlexperiments) | |
+| [mllrnrs](https://github.com/kapsner/mllrnrs) | [![R CMD Check via {tic}](https://github.com/kapsner/mllrnrs/workflows/R%20CMD%20Check%20via%20{tic}/badge.svg?branch=main)](https://github.com/kapsner/mllrnrs) | [![codecov](https://codecov.io/gh/kapsner/mllrnrs/branch/main/graph/badge.svg)](https://app.codecov.io/gh/kapsner/mllrnrs) | |
+| [mlsurvlrnrs](https://github.com/kapsner/mlsurvlrnrs) | [![R CMD Check via {tic}](https://github.com/kapsner/mlsurvlrnrs/workflows/R%20CMD%20Check%20via%20{tic}/badge.svg?branch=main)](https://github.com/kapsner/mlsurvlrnrs) | [![codecov](https://codecov.io/gh/kapsner/mlsurvlrnrs/branch/main/graph/badge.svg)](https://app.codecov.io/gh/kapsner/mlsurvlrnrs) | |
+| [kdry](https://github.com/kapsner/kdry) | [![R CMD Check via {tic}](https://github.com/kapsner/kdry/workflows/R%20CMD%20Check%20via%20{tic}/badge.svg?branch=main)](https://github.com/kapsner/kdry) | [![codecov](https://codecov.io/gh/kapsner/kdry/branch/main/graph/badge.svg)](https://app.codecov.io/gh/kapsner/kdry) | |
 | [miRacumDQA](https://github.com/miracum/dqa-miracumdqa) | [![R CMD Check via {tic}](https://github.com/miracum/dqa-miracumdqa/workflows/R%20CMD%20Check%20via%20{tic}/badge.svg?branch=master)](https://github.com/miracum/dqa-miracumdqa) | [![codecov](https://codecov.io/gh/miracum/dqa-miracumdqa/branch/master/graph/badge.svg)](https://app.codecov.io/gh/miracum/dqa-miracumdqa) | |
 | [mlr3learners.lightgbm](https://github.com/mlr3learners/mlr3learners.lightgbm) | [![R CMD Check via {tic}](https://github.com/mlr3learners/mlr3learners.lightgbm/workflows/R%20CMD%20Check%20via%20{tic}/badge.svg?branch=master)](https://github.com/miracum/dqa-miracumdqa) | | | 
 | [lightgbm.py](https://github.com/kapsner/lightgbm.py) | | | | 
@@ -27,7 +37,11 @@
 | [sigident.func](https://github.com/kapsner/sigident.func) | [![R CMD Check via {tic}](https://github.com/kapsner/sigident.func/workflows/R%20CMD%20Check%20via%20{tic}/badge.svg?branch=master)](https://github.com/kapsner/sigident.func) | [![codecov](https://codecov.io/gh/kapsner/sigident.func/branch/master/graph/badge.svg)](https://app.codecov.io/gh/kapsner/sigident.func) | [![](https://img.shields.io/badge/doi-10.3390/cancers11101606-yellow.svg)](https://doi.org/10.3390/cancers11101606) | 
 | [sigident.preproc](https://github.com/kapsner/sigident.preproc) | [![R CMD Check via {tic}](https://github.com/kapsner/sigident.preproc/workflows/R%20CMD%20Check%20via%20{tic}/badge.svg?branch=master)](https://github.com/kapsner/sigident.preproc) | [![codecov](https://codecov.io/gh/kapsner/sigident.preproc/branch/master/graph/badge.svg)](https://app.codecov.io/gh/kapsner/sigident.preproc) | [![](https://img.shields.io/badge/doi-10.3390/cancers11101606-yellow.svg)](https://doi.org/10.3390/cancers11101606) | 
 
+</center>
+
 ## Co-Author
+
+<center>
 
 | Name | CRAN version | CRAN errors | Downloads | R CMD check results | Test Coverage | Publication | 
 | ---- | ------------ | ----------- | --------- | ------------------- | ------------- | ----------- | 
@@ -35,7 +49,8 @@
 | [DIZutils](https://github.com/miracum/misc-dizutils) | [![CRAN Status Badge](https://www.r-pkg.org/badges/version-ago/DIZutils)](https://cran.r-project.org/package=DIZutils) | [![Cran Checks](https://badges.cranchecks.info/worst/DIZutils.svg)](https://cran.r-project.org/web/checks/check_results_DIZutils.html) | [![](http://cranlogs.r-pkg.org/badges/grand-total/DIZutils?color=blue)](https://cran.r-project.org/package=DIZutils) | [![R CMD Check via {tic}](https://github.com/miracum/misc-dizutils/workflows/R%20CMD%20Check%20via%20{tic}/badge.svg?branch=master)](https://github.com/miracum/misc-dizutils) | [![codecov](https://codecov.io/gh/miracum/misc-dizutils/branch/master/graph/badge.svg)](https://app.codecov.io/gh/miracum/misc-dizutils) | | 
 | [tRomics](https://github.com/kapsner/tromics) | [![CRAN Status Badge](https://www.r-pkg.org/badges/version-ago/tRomics)](https://cran.r-project.org/package=tRomics) | | | [![R CMD Check via {tic}](https://github.com/kapsner/tromics/workflows/R%20CMD%20Check%20via%20{tic}/badge.svg?branch=master)](https://github.com/kapsner/tromics) | [![codecov](https://codecov.io/gh/kapsner/tromics/branch/master/graph/badge.svg)](https://app.codecov.io/gh/kapsner/tromics) | [![](https://img.shields.io/badge/doi-10.3390/ijms21134727-yellow.svg)](https://doi.org/10.3390/ijms21134727) | 
 
+</center>
 
 ## R packages, I have contributed to
 
-[mlr3extralearners](https://github.com/mlr-org/mlr3extralearners), [cutpointr](https://github.com/Thie1e/cutpointr)
+[mlr3extralearners](https://github.com/mlr-org/mlr3extralearners), [cutpointr](https://github.com/Thie1e/cutpointr), [splitTools](https://github.com/mayer79/splitTools), [ParBayesianOptimization](https://github.com/AnotherSamWilson/ParBayesianOptimization), [treeshap](https://github.com/ModelOriented/treeshap)
