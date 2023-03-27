@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 <a href="https://www.postgresql.org/"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" height="55"/></a>
 <a href="https://www.latex-project.org/"><img src="https://www.latex-project.org/img/latex-project-logo.svg" alt="latex" height="55"/></a>
 <a href="https://ubuntu.com/"><img src="https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png" alt="ubuntu" height="55"/></a>
+<a href="https://www.xnat.org/"><img src="https://www.xnat.org/images/XNAT_logo_17.png" alt="xnat" height="55"/></a>
 
 ## Github stats
 
