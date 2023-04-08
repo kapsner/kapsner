@@ -26,30 +26,30 @@ Here are some ideas to get you started:
 ## Technologies/ Tools
 <div>
 <p align="center">
-<a href="https://www.python.org/"><img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="python" height="55"/></a>
-<a href="https://www.r-project.org/"><img src="https://www.r-project.org/Rlogo.png" alt="R" width="57" height="55"/></a>
-<a href="https://www.rstudio.com/"><img src="https://www.rstudio.com/assets/img/logo.svg" alt="rstudio" height="55"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" height="55"/></a>
-<a href="https://jupyter.org/"><img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="jupyter" height="55"/></a>
-<a href="https://www.docker.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1920px-Docker_%28container_engine%29_logo.svg.png" alt="docker" height="55"/></a>
-<a href="https://tiswww.case.edu/php/chet/bash/bashtop.html"><img src="https://tiswww.case.edu/php/chet/img/bash-logo-web.png" alt="bash" height="55"/></a>
-<a href="https://github.com/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" height="55"/></a>
-<a href="https://git-scm.com/"><img src="https://git-scm.com/images/logo@2x.png" alt="git" height="55"/></a>
-<a href="https://about.gitlab.com/"><img src="https://gitlab.com/gitlab-org/gitlab/-/raw/master/app/assets/images/gitlab_logo.png" alt="gitlab" height="55"/></a>
-<a href="https://quarto.org/"><img src="https://quarto.org/quarto.png" alt="quarto" height="55"/></a>
-<a href="https://github.com/rstudio/shiny"><img src="https://raw.githubusercontent.com/rstudio/shiny/main/man/figures/logo.png" alt="shiny" height="55"/></a>
-<a href="https://github.com/rstudio/rmarkdown"><img src="https://raw.githubusercontent.com/rstudio/rmarkdown/main/man/figures/logo.png" alt="rmarkdown" height="55"/></a>
-<a href="https://github.com/tidyverse/ggplot2"><img src="https://raw.githubusercontent.com/tidyverse/ggplot2/main/man/figures/logo.png" alt="ggplot" height="55"/></a>
-<a href="https://github.com/dmlc/xgboost"><img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" alt="xgbooost" height="55"/></a>
-<a href="https://pytorch.org/"><img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" height="55"/></a>
-<a href="https://www.pytorchlightning.ai/"><img src="https://assets.website-files.com/5f76c986da6f6011315a6c45/5f76c986da6f6056eb5a6c52_WordSymbol-Primary-Lightning-White-500-p-800.png" alt="lightning" height="55"/></a>
-<a href="https://github.com/microsoft/LightGBM"><img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" alt="lightgbm" height="55"/></a>
-<a href="https://www.raspberrypi.com/"><img src="https://upload.wikimedia.org/wikipedia/de/thumb/c/cb/Raspberry_Pi_Logo.svg/340px-Raspberry_Pi_Logo.svg.png" alt="raspberry" height="55"/></a>
-<a href="https://www.hl7.org/fhir/"><img src="https://www.hl7.org/fhir/assets/images/fhir-logo-www.png" alt="fhir" height="55"/></a>
-<a href="https://www.postgresql.org/"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" height="55"/></a>
-<a href="https://www.latex-project.org/"><img src="https://www.latex-project.org/img/latex-project-logo.svg" alt="latex" height="55"/></a>
-<a href="https://ubuntu.com/"><img src="https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png" alt="ubuntu" height="55"/></a>
-<a href="https://www.xnat.org/"><img src="https://www.xnat.org/images/XNAT_logo_17.png" alt="xnat" height="55"/></a>
+<a href="https://www.python.org/"><img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="python" height="45"/></a>
+<a href="https://www.r-project.org/"><img src="https://www.r-project.org/Rlogo.png" alt="R" height="45"/></a>
+<a href="https://www.rstudio.com/"><img src="https://www.rstudio.com/assets/img/logo.svg" alt="rstudio" height="45"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" height="45"/></a>
+<a href="https://jupyter.org/"><img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="jupyter" height="45"/></a>
+<a href="https://www.docker.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1920px-Docker_%28container_engine%29_logo.svg.png" alt="docker" height="45"/></a>
+<a href="https://tiswww.case.edu/php/chet/bash/bashtop.html"><img src="https://tiswww.case.edu/php/chet/img/bash-logo-web.png" alt="bash" height="45"/></a>
+<a href="https://github.com/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" height="45"/></a>
+<a href="https://git-scm.com/"><img src="https://git-scm.com/images/logo@2x.png" alt="git" height="45"/></a>
+<a href="https://about.gitlab.com/"><img src="https://gitlab.com/gitlab-org/gitlab/-/raw/master/app/assets/images/gitlab_logo.png" alt="gitlab" height="45"/></a>
+<a href="https://quarto.org/"><img src="https://quarto.org/quarto.png" alt="quarto" height="45"/></a>
+<a href="https://github.com/rstudio/shiny"><img src="https://raw.githubusercontent.com/rstudio/shiny/main/man/figures/logo.png" alt="shiny" height="45"/></a>
+<a href="https://github.com/rstudio/rmarkdown"><img src="https://raw.githubusercontent.com/rstudio/rmarkdown/main/man/figures/logo.png" alt="rmarkdown" height="45"/></a>
+<a href="https://github.com/tidyverse/ggplot2"><img src="https://raw.githubusercontent.com/tidyverse/ggplot2/main/man/figures/logo.png" alt="ggplot" height="45"/></a>
+<a href="https://github.com/dmlc/xgboost"><img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" alt="xgbooost" height="45"/></a>
+<a href="https://pytorch.org/"><img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" height="45"/></a>
+<a href="https://www.pytorchlightning.ai/"><img src="https://assets.website-files.com/5f76c986da6f6011315a6c45/5f76c986da6f6056eb5a6c52_WordSymbol-Primary-Lightning-White-500-p-800.png" alt="lightning" height="45"/></a>
+<a href="https://github.com/microsoft/LightGBM"><img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" alt="lightgbm" height="45"/></a>
+<a href="https://www.raspberrypi.com/"><img src="https://upload.wikimedia.org/wikipedia/de/thumb/c/cb/Raspberry_Pi_Logo.svg/340px-Raspberry_Pi_Logo.svg.png" alt="raspberry" height="45"/></a>
+<a href="https://www.hl7.org/fhir/"><img src="https://www.hl7.org/fhir/assets/images/fhir-logo-www.png" alt="fhir" height="45"/></a>
+<a href="https://www.postgresql.org/"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" height="45"/></a>
+<a href="https://www.latex-project.org/"><img src="https://www.latex-project.org/img/latex-project-logo.svg" alt="latex" height="45"/></a>
+<a href="https://ubuntu.com/"><img src="https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png" alt="ubuntu" height="45"/></a>
+<a href="https://www.xnat.org/"><img src="https://www.xnat.org/images/XNAT_logo_17.png" alt="xnat" height="45"/></a>
 
 ## Github stats
 
