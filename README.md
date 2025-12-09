@@ -1,4 +1,4 @@
-"### Hi there, I'm Dr. Lorenz Kapsner 👋
+# Hi there, I'm Dr. Lorenz Kapsner 👋
 
 <!--
 **kapsner/kapsner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <a href="https://www.r-project.org/"><img src="https://www.r-project.org/Rlogo.png" alt="R" height="45"/></a>
 <a href="https://posit.co/products/open-source/rstudio-server/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="rstudio" height="45"/></a>
 <a href="https://positron.posit.co/"><img src="https://positron.posit.co/assets/images/positron-logo_fullcolor-TM.png" alt="positron" height="45"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" height="45"/></a>
+<a href="https://code.visualstudio.com/"><img src="https:https://code.visualstudio.com/assets/branding/code-stable.png" alt="vscode" height="45"/></a>
 <a href="https://jupyter.org/"><img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="jupyter" height="45"/></a>
 <a href="https://www.docker.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1920px-Docker_%28container_engine%29_logo.svg.png" alt="docker" height="45"/></a>
 <a href="https://tiswww.case.edu/php/chet/bash/bashtop.html"><img src="https://tiswww.case.edu/php/chet/img/bash-logo-web.png" alt="bash" height="45"/></a>
